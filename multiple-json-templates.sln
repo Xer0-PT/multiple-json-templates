@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleJsonTemplates.Api", "src\MultipleJsonTemplates.Api\MultipleJsonTemplates.Api.csproj", "{49788A1C-C227-48E6-84AD-DA7BA96B34F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{46BE559B-B449-4A0D-A47B-CFC84B9F1150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleJsonTemplates.Application", "src\MultipleJsonTemplates.Application\MultipleJsonTemplates.Application.csproj", "{AE4D8C8A-618F-4C92-AA96-06DE4B54594E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49788A1C-C227-48E6-84AD-DA7BA96B34F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49788A1C-C227-48E6-84AD-DA7BA96B34F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49788A1C-C227-48E6-84AD-DA7BA96B34F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49788A1C-C227-48E6-84AD-DA7BA96B34F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4D8C8A-618F-4C92-AA96-06DE4B54594E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4D8C8A-618F-4C92-AA96-06DE4B54594E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4D8C8A-618F-4C92-AA96-06DE4B54594E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4D8C8A-618F-4C92-AA96-06DE4B54594E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49788A1C-C227-48E6-84AD-DA7BA96B34F4} = {46BE559B-B449-4A0D-A47B-CFC84B9F1150}
+	EndGlobalSection
+EndGlobal
